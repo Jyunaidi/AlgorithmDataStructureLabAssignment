@@ -1,6 +1,8 @@
 /* 
-Name: Nabil Junaidi Bin Jais
 ID: 24003319
+Name: Nabil Junaidi Bin Jais
+Group: G3
+Lab: Lab 1
 */
 
 #include <iostream>
