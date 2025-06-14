@@ -1,3 +1,8 @@
+/* 
+Name: Nabil Junaidi Bin Jais
+ID: 24003319
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -11,10 +16,6 @@ struct Student {
     string email;
 };
 
-/* 
-Name: Nabil Junaidi Bin Jais
-ID: 24003319
-*/
 int main() {
     int n;
     cout << "Enter number of students: ";
