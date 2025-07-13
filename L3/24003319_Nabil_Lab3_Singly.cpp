@@ -2,7 +2,7 @@
 id: 24003319
 name: Nabil Junaidi
 group: G3
-lab: L3
+lab: Lab 3
 */
 
 #include <iostream>
