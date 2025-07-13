@@ -69,7 +69,7 @@ int main()
 
     q.dequeue();
 
-    cout << "After Dequeue: ";
+    cout << "After Dequeue: \n";
     q.display_queue();
 
     return 0;
