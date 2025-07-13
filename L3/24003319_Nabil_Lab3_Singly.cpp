@@ -1,8 +1,8 @@
 /*
-id: 24003319
-name: Nabil Junaidi
-group: G3
-lab: Lab 3
+ID: 24003319
+Name: Nabil Junaidi
+Group: G3
+Lab: Lab 3
 */
 
 #include <iostream>
