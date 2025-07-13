@@ -72,7 +72,7 @@ public:
         cout << "nullptr" << endl;
     }
 
-    void delete_el(string val)
+    void delete_elem(string val)
     {
         if (!head)
             return;
@@ -118,7 +118,7 @@ int main()
 
     linkedlst.display_list();
 
-    linkedlst.delete_el("Ahmed");
+    linkedlst.delete_elem("Ahmed");
     cout << "After deleting Ahmed: ";
     linkedlst.display_list();
 
